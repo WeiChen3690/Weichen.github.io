@@ -1,6 +1,6 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/WeiChen3690)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I received the PhD degree from the School of Computer Science and Technology, Beijing Jiaotong University, Beijing, China, in 2025. His current research interests include knowledge graph reasoning and spatial-temporal data mining. He has published innovative papers in top-tier conferences such as AAAI, ICDE, ICLR, ACL, and EMNLP.
 
 #### Email  
 <code>XX@XX.XX</code>  
@@ -17,4 +17,4 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 • GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Knowledge Graph, Spatiotemporal Data Mining, Large Language Model
